@@ -8,7 +8,7 @@ A nossa equipe faz parte do departamento INOVA do CPS. Clique [aqui](Equipe.md) 
 
 ## Project Charter
 
-![project charter](https://user-images.githubusercontent.com/43144590/45446671-e30cee00-b6a3-11e8-9d49-d5e63ad8429e.png)
+![project charter](https://raw.githubusercontent.com/InovaCPS/busca-lattes/master/Imagens/Project%20Charter.png)
 
 ## License
 
