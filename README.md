@@ -12,4 +12,4 @@ A nossa equipe faz parte do departamento INOVA do CPS. Clique [aqui](Equipe.md) 
 
 ## License
 
-This project is licensed under the share-alike license - see the [LICENSE](LISENSE) file for details
+This project is licensed under the share-alike license - see the [LICENSE](LICENSE) file for details
