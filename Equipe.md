@@ -37,9 +37,10 @@ Perfil do Git: https://github.com/EduardoSimao
 
 Git: https://github.com/Maurozac
 
+### Juliana Planck
+
+Git: https://github.com/julianaplanck
+
 ### Ulisses Gandini
 
 Git: https://github.com/iceoffire
-
-### Juliana Planck
-
