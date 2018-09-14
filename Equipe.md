@@ -9,7 +9,13 @@ Nossa equipe é composta pela unidade do INOVA de Praia Grande e também pela IN
 
 ![nilson v2](https://user-images.githubusercontent.com/43144590/45499829-8537df00-b753-11e8-83e8-900e9230c344.png)
 
+### Lucas Nadalete (São José dos Campos)
 
+![lucas nadalete](https://user-images.githubusercontent.com/43144590/45556819-8c71f200-b812-11e8-89a5-843f2fdc0a28.png)
+
+![emoji](https://user-images.githubusercontent.com/43144590/45427147-87773c00-b674-11e8-8d7b-5b8ed22e11ff.png)
+Perfil do Git: https://github.com/lucasnadalete
+![emoji](https://user-images.githubusercontent.com/43144590/45427147-87773c00-b674-11e8-8d7b-5b8ed22e11ff.png)
 
 ## Dev Team
 
