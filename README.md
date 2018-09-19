@@ -1,6 +1,6 @@
 # Busca Lattes
 
-Busca de professores por suas especialidades no sistema do CNPq.
+Busca de professores por suas especialidades utilizando como base o seu lattes, extraído do sistema do CNPq.
 
 ## Equipe
 
