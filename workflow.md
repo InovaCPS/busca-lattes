@@ -28,3 +28,4 @@ Neste [link](https://pythonprogramminglanguage.com/bag-of-words/) você pode ler
 
 ![image](https://user-images.githubusercontent.com/43144590/45553626-d35be980-b80a-11e8-9a52-2f869eb614bf.png)
 
+Com o Whoosh http://whoosh.readthedocs.io/en/latest/intro.html é possível criar um index facilmente, usando o texto extraído dos CVs. Mais sobre como funcionam os índices de busca: https://en.wikipedia.org/wiki/Search_engine_indexing
