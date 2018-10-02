@@ -10,12 +10,12 @@ A nossa equipe faz parte do departamento INOVA do CPS. Clique [aqui](Equipe.md) 
 
 ![project charter](https://raw.githubusercontent.com/InovaCPS/busca-lattes/master/Imagens/Project%20Charter.png)
 
+# Getting Started
+
 ## Microsserviços
 
 * [inova-proxy](https://github.com/InovaCPS/inova-proxy)
 * [inova-log](https://github.com/InovaCPS/inova-log)
-
-# Workflow - Getting Started
 
 ## Problema
 O problema atual é que não temos um lugar para fazer busca de nossos professores.
